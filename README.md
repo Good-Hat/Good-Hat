@@ -1,4 +1,4 @@
-## Good-Hat🎩🧑🏽‍💻
+## Welcome to my Profile Good-Hat🎩🧑🏽‍💻
 
  <div>
   <a href="https://github.com/Good-Hat">
@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### I love you!
  
 <div> 
   <a href="https://bit.ly/mychanneishere" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
